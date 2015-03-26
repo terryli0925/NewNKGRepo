@@ -1,0 +1,7 @@
+<manifest>
+    <remote name="NewNKG" fetch="."/>
+    <project name="IMSDroid" remote="NewNKG" path="IMSdroid" revision="master"/>
+    <project name="ArcMenuLibrary" remote="NewNKG" path="ArcMenuLibrary" revision="master"/>
+    <project name="ngn-stack" remote="NewNKG" path="ngn-stack" revision="master"/>
+    <project name="ColorPicker" remote="NewNKG" path="ColorPicker" revision="master"/>
+</manifest>
